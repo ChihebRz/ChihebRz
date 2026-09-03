@@ -91,9 +91,14 @@ Power BI • Time Series Forecasting • Prophet • SARIMA • LSTM
 - DataCamp — **AI Engineer Associate**
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChihebRz&show_icons=true&theme=default" />
 </p>
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/chiheb-rezgui-45246229)
+- 💻 [GitHub](https://github.com/ChihebRz)
