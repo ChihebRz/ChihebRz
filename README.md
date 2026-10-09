@@ -18,15 +18,7 @@
 | **Customer-support bot** | A website or WhatsApp assistant that answers common questions and collects appointment requests. |
 | **Data and forecasting dashboards** | Power BI dashboards and forecasts (Prophet, SARIMA, LSTM) that turn raw data into decisions. |
 
----
 
-## See it working
-
-<!-- TODO: replace the two links below once your demo is hosted and your video is recorded -->
-- ▶️ **Watch the 90-second demo:** `VIDEO_LINK`
-- 🌐 **Try the live demo:** `DEMO_LINK`
-
----
 
 ## Featured projects
 
